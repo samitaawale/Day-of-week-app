@@ -1,0 +1,41 @@
+body {
+    font-family: cursive;
+    margin: 50px;
+    background: rgb(231, 211, 211);
+}
+
+#container {
+    width: 650px;
+    height: 350px;
+    background-color: #032222;
+    margin: auto;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    background: darkolivegreen;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+#weekday {
+    font-size: 80px;
+    color: tan;
+    font-weight: 800;
+    margin-left: 120px;
+}
+
+#phrase {
+    font-size: 40px;
+    color: rgb(216, 238, 178);
+    font-weight: 800;
+    margin-left: 150px;
+}
